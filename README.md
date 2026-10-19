@@ -18,16 +18,17 @@ Versi Flutter yang digunakan adalah Flutter 3.47.7 dengan Dart 3.13.5.
 
 ### Screenshot Flutter Version
 
-![Flutter Version](screenshots/flutter-version.png)
+## Flutter Version
 
-### Screenshot Flutter Doctor
+![Flutter Version](./screenshot/cek%20version.png)
 
-![Flutter Doctor](screenshots/flutter-doctor.png)
+## Flutter Doctor
 
-## 4. Screenshot Aplikasi
+![Flutter Doctor](./screenshot/cek%20version.png)
 
-![Aplikasi Flutter Hello World](screenshots/aplikasi.png)
+## Aplikasi Flutter Hello World
 
+![Aplikasi Flutter Hello World](./screenshot/aplikasi.png)
 ## 5. Kendala dan Solusi
 
 ### Kendala 1: Perintah `code .` tidak dikenali
